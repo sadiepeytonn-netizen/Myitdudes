@@ -1,0 +1,33 @@
+# My IT Dudes
+
+> My IT Dudes is a locally owned computer repair shop in Boca Raton, Florida. It repairs Windows PCs, laptops and Macs, removes viruses and malware, recovers data, upgrades SSDs and RAM, builds custom gaming PCs, sets up Wi-Fi networks and offers patient tech help for seniors. Service is available in-shop (free diagnostics), through in-home house calls around Boca Raton, and through remote PC repair anywhere in South Florida.
+
+- Phone: (561) 555-0142
+- Email: hello@myitdudes.com
+- Address: Your Street Address, Boca Raton, FL 33431
+- Hours: Mon–Fri 9am–6pm, Sat 10am–4pm
+- Policies: free in-shop diagnostics, firm quote before work, no fix no fee, 90-day labor warranty
+
+## Services and starting prices
+- [PC & Laptop Repair](https://www.myitdudes.com/services#pc-laptop-repair): from $79. All brands, including Apple. Usually same day to 3 days.
+- [Virus & Malware Removal](https://www.myitdudes.com/services#virus-removal): from $99. Same day, files kept, scam and remote-access cleanup.
+- [Slow Computer Tune-Up](https://www.myitdudes.com/services#tune-up): from $79.
+- [Data Recovery & Backup](https://www.myitdudes.com/services#data-recovery): from $149. No data, no recovery fee.
+- [Screen, Battery & Hardware](https://www.myitdudes.com/services#screen-battery): screens from $99 plus parts.
+- [SSD & RAM Upgrades](https://www.myitdudes.com/services#upgrades): from $99 plus the drive, includes a full clone.
+- [Custom & Gaming PC Builds](https://www.myitdudes.com/services#custom-gaming-pc): labor from $149, parts at cost, stress-tested.
+- [In-Home House Calls](https://www.myitdudes.com/services#house-calls): from $119, including the trip and first hour.
+- [Remote PC Repair](https://www.myitdudes.com/services#remote-pc-repair): from $49 per session anywhere in South Florida. No fix, no charge.
+- [Wi-Fi & Home Network Setup](https://www.myitdudes.com/services#wifi-network): from $129. Mesh Wi-Fi for homes and condos.
+- [Tech Help for Seniors](https://www.myitdudes.com/services#senior-tech-help): from $79. At home or remote.
+
+## Service area
+- House calls: Boca Raton, Delray Beach, Highland Beach, Boynton Beach, Deerfield Beach, Parkland, Coconut Creek, Coral Springs
+- Remote repair: all of Palm Beach, Broward and Miami-Dade counties, including Fort Lauderdale, Pompano Beach, West Palm Beach, Hollywood and Miami
+- Drop-off: our Boca Raton shop, open to customers from anywhere
+
+## Pages
+- [Home](https://www.myitdudes.com/): overview, how it works, FAQ
+- [Services & Pricing](https://www.myitdudes.com/services): every service, prices, turnaround, service areas
+- [About](https://www.myitdudes.com/about): who we are and what we stand for
+- [Book a Repair](https://www.myitdudes.com/contact): request form, phone, hours, map
