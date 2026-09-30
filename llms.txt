@@ -1,33 +1,43 @@
 # My IT Dudes
 
-> My IT Dudes is a locally owned computer repair shop in Boca Raton, Florida. It repairs Windows PCs, laptops and Macs, removes viruses and malware, recovers data, upgrades SSDs and RAM, builds custom gaming PCs, sets up Wi-Fi networks and offers patient tech help for seniors. Service is available in-shop (free diagnostics), through in-home house calls around Boca Raton, and through remote PC repair anywhere in South Florida.
+> My IT Dudes is a locally owned IT company in Boca Raton, Florida. For businesses, it provides managed IT services, IT helpdesk support, cybersecurity and ransomware protection, backup and disaster recovery, HIPAA compliance, Microsoft 365, cloud migration, business VoIP phones, managed print and network setup. For homes, it provides PC and laptop repair, virus removal, data recovery, SSD upgrades, custom gaming PC builds, on-site house calls, remote support and patient tech help for seniors. Service is available on-site around Boca Raton and remotely anywhere in South Florida.
 
 - Phone: (561) 555-0142
 - Email: hello@myitdudes.com
 - Address: Your Street Address, Boca Raton, FL 33431
 - Hours: Mon–Fri 9am–6pm, Sat 10am–4pm
-- Policies: free in-shop diagnostics, firm quote before work, no fix no fee, 90-day labor warranty
 
-## Services and starting prices
-- [PC & Laptop Repair](https://www.myitdudes.com/services#pc-laptop-repair): from $79. All brands, including Apple. Usually same day to 3 days.
-- [Virus & Malware Removal](https://www.myitdudes.com/services#virus-removal): from $99. Same day, files kept, scam and remote-access cleanup.
-- [Slow Computer Tune-Up](https://www.myitdudes.com/services#tune-up): from $79.
-- [Data Recovery & Backup](https://www.myitdudes.com/services#data-recovery): from $149. No data, no recovery fee.
-- [Screen, Battery & Hardware](https://www.myitdudes.com/services#screen-battery): screens from $99 plus parts.
-- [SSD & RAM Upgrades](https://www.myitdudes.com/services#upgrades): from $99 plus the drive, includes a full clone.
-- [Custom & Gaming PC Builds](https://www.myitdudes.com/services#custom-gaming-pc): labor from $149, parts at cost, stress-tested.
-- [In-Home House Calls](https://www.myitdudes.com/services#house-calls): from $119, including the trip and first hour.
-- [Remote PC Repair](https://www.myitdudes.com/services#remote-pc-repair): from $49 per session anywhere in South Florida. No fix, no charge.
-- [Wi-Fi & Home Network Setup](https://www.myitdudes.com/services#wifi-network): from $129. Mesh Wi-Fi for homes and condos.
-- [Tech Help for Seniors](https://www.myitdudes.com/services#senior-tech-help): from $79. At home or remote.
+## Business IT services
+- [Managed IT Services](https://www.myitdudes.com/services#managed-it): outsourced IT department with helpdesk, 24/7 RMM monitoring, patching and planning for offices of 3–100 users.
+- [IT Support & Helpdesk](https://www.myitdudes.com/services#it-helpdesk): phone, email, remote and on-site support for employees.
+- [IT Strategy, Planning & vCISO](https://www.myitdudes.com/services#it-strategy): roadmaps, budgets, security leadership, office IT relocations.
+- [Cybersecurity & Ransomware Protection](https://www.myitdudes.com/services#cybersecurity): EDR, email security, MFA, firewalls and security awareness training.
+- [Backup & Disaster Recovery](https://www.myitdudes.com/services#backup-recovery): on-site and cloud backups, tested restores, hurricane-season planning.
+- [HIPAA & IT Compliance](https://www.myitdudes.com/services#compliance): risk assessments, encryption and documentation for medical, legal and financial offices.
+- [Microsoft 365 & Email Management](https://www.myitdudes.com/services#microsoft-365): setup, migration, security and licensing.
+- [Cloud Migration & Hosting](https://www.myitdudes.com/services#cloud-services): server-to-cloud moves, hosted QuickBooks, virtual desktops, file sharing.
+- [Business VoIP Phone Systems](https://www.myitdudes.com/services#voip): cloud phones that let you keep your numbers.
+- [Managed Print & Printer Support](https://www.myitdudes.com/services#printers): printer and copier setup, scanning and supplies.
+- [Business & Home Networks, Wi-Fi](https://www.myitdudes.com/services#wifi-network): firewalls, mesh Wi-Fi and access points.
+
+## Home & PC repair
+- [PC & Laptop Repair](https://www.myitdudes.com/services#pc-laptop-repair): all brands, including Apple.
+- [Virus & Malware Removal](https://www.myitdudes.com/services#virus-removal): usually same day, files kept.
+- [Slow Computer Tune-Up](https://www.myitdudes.com/services#tune-up)
+- [Data Recovery](https://www.myitdudes.com/services#data-recovery)
+- [Screen, Battery & Hardware](https://www.myitdudes.com/services#screen-battery)
+- [SSD & RAM Upgrades](https://www.myitdudes.com/services#upgrades)
+- [Custom & Gaming PC Builds](https://www.myitdudes.com/services#custom-gaming-pc)
+- [On-Site House Calls](https://www.myitdudes.com/services#house-calls)
+- [Remote Support](https://www.myitdudes.com/services#remote-pc-repair): anywhere in South Florida.
+- [Tech Help for Seniors](https://www.myitdudes.com/services#senior-tech-help)
 
 ## Service area
-- House calls: Boca Raton, Delray Beach, Highland Beach, Boynton Beach, Deerfield Beach, Parkland, Coconut Creek, Coral Springs
-- Remote repair: all of Palm Beach, Broward and Miami-Dade counties, including Fort Lauderdale, Pompano Beach, West Palm Beach, Hollywood and Miami
-- Drop-off: our Boca Raton shop, open to customers from anywhere
+- On-site: Boca Raton, Delray Beach, Highland Beach, Boynton Beach, Deerfield Beach, Parkland, Coconut Creek, Coral Springs
+- Remote: all of Palm Beach, Broward and Miami-Dade counties, including Fort Lauderdale, Pompano Beach, West Palm Beach, Hollywood and Miami
 
 ## Pages
-- [Home](https://www.myitdudes.com/): overview, how it works, FAQ
-- [Services & Pricing](https://www.myitdudes.com/services): every service, prices, turnaround, service areas
-- [About](https://www.myitdudes.com/about): who we are and what we stand for
-- [Book a Repair](https://www.myitdudes.com/contact): request form, phone, hours, map
+- [Home](https://www.myitdudes.com/)
+- [Services](https://www.myitdudes.com/services)
+- [About Us](https://www.myitdudes.com/about)
+- [Contact / Schedule a Call](https://www.myitdudes.com/contact)
